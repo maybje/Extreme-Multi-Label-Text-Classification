@@ -4,4 +4,4 @@ In this project we investigate the Extreme Multi-Label Classification problem, w
 In this way, several experiments are conducted with two public datasets, namely, PubMed from the medical domain and EconBiz from economics publications. These two datasets have been used in previous experiments, which allows us to compare our results with the state-of-the-art. Four different classifiers are employed to conduct several experiments, tuning some of the parameters of existing architectures, as well as implementing different text pre-processing procedures to assess how their performance compares with previous findings. The results suggest that with the correct tuning, simpler architectures can achieve a competitive performance when compared to more complex developments. In this way, we provide a
 series of models that can be used to experiment with deep learning methods in complex problems like XMLC.
 
-Results can be shared upon request.
+**Results can be shared upon request.**
